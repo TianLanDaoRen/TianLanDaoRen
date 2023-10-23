@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TianLanDaoRen
-- 👀 I’m interested in game making
+- 👀 I’m interested in developing game
 - 🌱 I’m currently learning Unity
 
 <!---
